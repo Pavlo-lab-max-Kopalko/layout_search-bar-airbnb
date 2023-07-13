@@ -1,0 +1,1 @@
+{"version":3,"sources":["normalize.css"],"names":[],"mappings":"AAAA,MACE,SAAU,CACV,WACF,CAEA,YACE,YACF","file":"normalize.408bd620.css","sourceRoot":"..\\src","sourcesContent":["input {\n  padding: 0;\n  border: none;\n}\n\ninput:focus {\n  outline: none;\n}\n"]}
